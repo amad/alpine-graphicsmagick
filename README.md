@@ -1,4 +1,4 @@
-Minimal GraphicsMagick Docker Images
+alpine-graphicsmagick
 ---------------------------------------------------------
 
 Built on [Alpine Linux](https://alpinelinux.org/).
