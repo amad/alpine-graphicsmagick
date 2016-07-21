@@ -44,5 +44,3 @@ RUN apk add --update g++ \
             make \
             lzip \
             wget
-
-CMD "gm -version"
